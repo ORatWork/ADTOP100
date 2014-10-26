@@ -1,0 +1,873 @@
+Jaar;Positie;Ziekenhuis;Plaatsnaam;Score;Match;Latitude;Longitude;Region
+2005;95;Admiraal De Ruyter Ziekenhuis;Vlissingen;0;1;51,4513683;3,5661162;SW
+2006;93;Admiraal De Ruyter Ziekenhuis;Vlissingen;0;1;51,4513683;3,5661162;SW
+2007;89;Admiraal De Ruyter Ziekenhuis;Vlissingen;0;1;51,4513683;3,5661162;SW
+2008;82;Admiraal De Ruyter Ziekenhuis;Vlissingen;0;1;51,4513683;3,5661162;SW
+2009;98;Admiraal De Ruyter Ziekenhuis;Vlissingen;0;1;51,4513683;3,5661162;SW
+2010;75;Admiraal De Ruyter Ziekenhuis;Vlissingen;70,62;1;51,4513683;3,5661162;SW
+2011;79;Admiraal De Ruyter Ziekenhuis;Vlissingen;64,7;1;51,4513683;3,5661162;SW
+2012;76;Admiraal De Ruyter Ziekenhuis;Vlissingen;56,7081141;1;51,4513683;3,5661162;SW
+2013;77;Admiraal De Ruyter Ziekenhuis;Vlissingen;53,66;1;51,4513683;3,5661162;SW
+2014;33;Admiraal De Ruyter Ziekenhuis;Vlissingen;76,83;1;51,4513683;3,5661162;SW
+2005;63;Albert Schweitzer Ziekenhuis;Dordrecht;0;2;51,8267178;4,6301962;SW
+2006;7;Albert Schweitzer Ziekenhuis;Dordrecht;0;2;51,8267178;4,6301962;SW
+2007;47;Albert Schweitzer Ziekenhuis;Dordrecht;0;2;51,8267178;4,6301962;SW
+2008;46;Albert Schweitzer Ziekenhuis;Dordrecht;0;2;51,8267178;4,6301962;SW
+2009;69;Albert Schweitzer Ziekenhuis;Dordrecht;0;2;51,8267178;4,6301962;SW
+2010;37;Albert Schweitzer Ziekenhuis;Dordrecht;79,67;2;51,8267178;4,6301962;SW
+2011;54;Albert Schweitzer Ziekenhuis;Dordrecht;69,34;2;51,8267178;4,6301962;SW
+2012;9;Albert Schweitzer Ziekenhuis;Dordrecht;76,50610444;2;51,8267178;4,6301962;SW
+2013;1;Albert Schweitzer Ziekenhuis;Dordrecht;81,71;2;51,8267178;4,6301962;SW
+2014;1;Albert Schweitzer Ziekenhuis;Dordrecht;89,54;2;51,8267178;4,6301962;SW
+2005;10;Amphia Ziekenhuis;Breda;0;3;51,5818587;4,7972957;SW
+2006;65;Amphia Ziekenhuis;Breda;0;3;51,5818587;4,7972957;SW
+2007;74;Amphia Ziekenhuis;Breda;0;3;51,5818587;4,7972957;SW
+2008;86;Amphia Ziekenhuis;Breda;0;3;51,5818587;4,7972957;SW
+2009;75;Amphia Ziekenhuis;Breda;0;3;51,5818587;4,7972957;SW
+2010;84;Amphia Ziekenhuis;Breda;67,6;3;51,5818587;4,7972957;SW
+2011;58;Amphia Ziekenhuis;Breda;68,79;3;51,5818587;4,7972957;SW
+2012;36;Amphia Ziekenhuis;Breda;67,63699528;3;51,5818587;4,7972957;SW
+2013;21;Amphia Ziekenhuis;Breda;73,49;3;51,5818587;4,7972957;SW
+2014;53;Amphia Ziekenhuis;Breda;71,93;3;51,5818587;4,7972957;SW
+2005;94;Antonius Ziekenhuis;Sneek;0;4;53,034689;5,642867;NE
+2006;4;Antonius Ziekenhuis;Sneek;0;4;53,034689;5,642867;NE
+2007;43;Antonius Ziekenhuis;Sneek;0;4;53,034689;5,642867;NE
+2008;58;Antonius Ziekenhuis;Sneek;0;4;53,034689;5,642867;NE
+2009;33;Antonius Ziekenhuis;Sneek;0;4;53,034689;5,642867;NE
+2010;66;Antonius Ziekenhuis;Sneek;73,33;4;53,034689;5,642867;NE
+2011;22;Antonius Ziekenhuis;Sneek;75,51;4;53,034689;5,642867;NE
+2012;31;Antonius Ziekenhuis;Sneek;68,71858618;4;53,034689;5,642867;NE
+2013;29;Antonius Ziekenhuis;Sneek;70,4;4;53,034689;5,642867;NE
+2014;39;Antonius Ziekenhuis;Sneek;75,8;4;53,034689;5,642867;NE
+2005;5;Atrium Medisch Centrum;Heerlen;0;5;50,8689522;5,9773568;SE
+2006;68;Atrium Medisch Centrum;Heerlen;0;5;50,8689522;5,9773568;SE
+2007;77;Atrium Medisch Centrum;Heerlen;0;5;50,8689522;5,9773568;SE
+2008;22;Atrium Medisch Centrum;Heerlen;0;5;50,8689522;5,9773568;SE
+2009;1;Atrium Medisch Centrum;Heerlen;0;5;50,8689522;5,9773568;SE
+2010;28;Atrium Medisch Centrum;Heerlen;80,85;5;50,8689522;5,9773568;SE
+2011;56;Atrium Medisch Centrum;Heerlen;68,95;5;50,8689522;5,9773568;SE
+2012;59;Atrium Medisch Centrum;Heerlen;62,26164876;5;50,8689522;5,9773568;SE
+2013;50;Atrium Medisch Centrum;Heerlen;64,96;5;50,8689522;5,9773568;SE
+2014;56;Atrium Medisch Centrum;Heerlen;71,02;5;50,8689522;5,9773568;SE
+2005;53;Beatrix Ziekenhuis;Gorinchem;0;6;51,8388664;4,9571876;SW
+2006;61;Beatrix Ziekenhuis;Gorinchem;0;6;51,8388664;4,9571876;SW
+2007;53;Beatrix Ziekenhuis;Gorinchem;0;6;51,8388664;4,9571876;SW
+2008;85;Beatrix Ziekenhuis;Gorinchem;0;6;51,8388664;4,9571876;SW
+2009;66;Beatrix Ziekenhuis;Gorinchem;0;6;51,8388664;4,9571876;SW
+2010;10;Beatrix Ziekenhuis;Gorinchem;85,75;6;51,8388664;4,9571876;SW
+2011;69;Beatrix Ziekenhuis;Gorinchem;66,66;6;51,8388664;4,9571876;SW
+2012;2;Beatrix Ziekenhuis;Gorinchem;79,45597796;6;51,8388664;4,9571876;SW
+2013;51;Beatrix Ziekenhuis;Gorinchem;64,7;6;51,8388664;4,9571876;SW
+2014;11;Beatrix Ziekenhuis;Gorinchem;81,87;6;51,8388664;4,9571876;SW
+2005;28;BovenIJ Ziekenhuis;Amsterdam;0;7;52,4048628;4,9215561;NW
+2006;43;BovenIJ Ziekenhuis;Amsterdam;0;7;52,4048628;4,9215561;NW
+2007;9;BovenIJ Ziekenhuis;Amsterdam;0;7;52,4048628;4,9215561;NW
+2008;35;BovenIJ Ziekenhuis;Amsterdam;0;7;52,4048628;4,9215561;NW
+2009;39;BovenIJ Ziekenhuis;Amsterdam;0;7;52,4048628;4,9215561;NW
+2010;95;BovenIJ Ziekenhuis;Amsterdam;60,16;7;52,4048628;4,9215561;NW
+2011;89;BovenIJ Ziekenhuis;Amsterdam;60,56;7;52,4048628;4,9215561;NW
+2012;80;BovenIJ Ziekenhuis;Amsterdam;54,29330636;7;52,4048628;4,9215561;NW
+2013;57;BovenIJ Ziekenhuis;Amsterdam;63,11;7;52,4048628;4,9215561;NW
+2014;61;BovenIJ Ziekenhuis;Amsterdam;69,56;7;52,4048628;4,9215561;NW
+2005;20;Canisius-Wilhelmina Ziekenhuis;Nijmegen;0;8;51,8171588;5,8311948;SE
+2006;8;Canisius-Wilhelmina Ziekenhuis;Nijmegen;0;8;51,8171588;5,8311948;SE
+2007;14;Canisius-Wilhelmina Ziekenhuis;Nijmegen;0;8;51,8171588;5,8311948;SE
+2008;10;Canisius-Wilhelmina Ziekenhuis;Nijmegen;0;8;51,8171588;5,8311948;SE
+2009;2;Canisius-Wilhelmina Ziekenhuis;Nijmegen;0;8;51,8171588;5,8311948;SE
+2010;32;Canisius-Wilhelmina Ziekenhuis;Nijmegen;80,33;8;51,8171588;5,8311948;SE
+2011;6;Canisius-Wilhelmina Ziekenhuis;Nijmegen;80,23;8;51,8171588;5,8311948;SE
+2012;81;Canisius-Wilhelmina Ziekenhuis;Nijmegen;54,01525689;8;51,8171588;5,8311948;SE
+2013;55;Canisius-Wilhelmina Ziekenhuis;Nijmegen;63,47;8;51,8171588;5,8311948;SE
+2014;64;Canisius-Wilhelmina Ziekenhuis;Nijmegen;68,55;8;51,8171588;5,8311948;SE
+2005;41;Catharina Ziekenhuis;Eindhoven;0;9;51,4657773;5,4720266;SE
+2006;5;Catharina Ziekenhuis;Eindhoven;0;9;51,4657773;5,4720266;SE
+2007;2;Catharina Ziekenhuis;Eindhoven;0;9;51,4657773;5,4720266;SE
+2008;17;Catharina Ziekenhuis;Eindhoven;0;9;51,4657773;5,4720266;SE
+2009;22;Catharina Ziekenhuis;Eindhoven;0;9;51,4657773;5,4720266;SE
+2010;38;Catharina Ziekenhuis;Eindhoven;79,47;9;51,4657773;5,4720266;SE
+2011;13;Catharina Ziekenhuis;Eindhoven;77,42;9;51,4657773;5,4720266;SE
+2012;23;Catharina Ziekenhuis;Eindhoven;69,91862281;9;51,4657773;5,4720266;SE
+2013;28;Catharina Ziekenhuis;Eindhoven;70,87;9;51,4657773;5,4720266;SE
+2014;50;Catharina Ziekenhuis;Eindhoven;72,78;9;51,4657773;5,4720266;SE
+2005;36;Deventer Ziekenhuis;Deventer;0;10;52,2612432;6,1918366;NE
+2006;53;Deventer Ziekenhuis;Deventer;0;10;52,2612432;6,1918366;NE
+2007;81;Deventer Ziekenhuis;Deventer;0;10;52,2612432;6,1918366;NE
+2008;65;Deventer Ziekenhuis;Deventer;0;10;52,2612432;6,1918366;NE
+2009;68;Deventer Ziekenhuis;Deventer;0;10;52,2612432;6,1918366;NE
+2010;68;Deventer Ziekenhuis;Deventer;72,76;10;52,2612432;6,1918366;NE
+2011;17;Deventer Ziekenhuis;Deventer;76,46;10;52,2612432;6,1918366;NE
+2012;65;Deventer Ziekenhuis;Deventer;60,884521;10;52,2612432;6,1918366;NE
+2013;62;Deventer Ziekenhuis;Deventer;61,69;10;52,2612432;6,1918366;NE
+2014;14;Deventer Ziekenhuis;Deventer;81,33;10;52,2612432;6,1918366;NE
+2005;90;Diaconessenhuis;Meppel;0;11;52,690925;6,214348;NE
+2006;92;Diaconessenhuis;Meppel;0;11;52,690925;6,214348;NE
+2007;97;Diaconessenhuis;Meppel;0;11;52,690925;6,214348;NE
+2008;38;Diaconessenhuis;Meppel;0;11;52,690925;6,214348;NE
+2009;27;Diaconessenhuis;Meppel;0;11;52,690925;6,214348;NE
+2010;80;Diaconessenhuis;Meppel;68,73;11;52,690925;6,214348;NE
+2011;64;Diaconessenhuis;Meppel;67,91;11;52,690925;6,214348;NE
+2012;41;Diaconessenhuis;Meppel;66,48645022;11;52,690925;6,214348;NE
+2013;22;Diaconessenhuis;Meppel;73,29;11;52,690925;6,214348;NE
+2014;69;Diaconessenhuis;Meppel;67,19;11;52,690925;6,214348;NE
+2005;56;Diaconessenhuis Leiden;Leiden;0;12;52,1740419;4,4827245;NW
+2006;17;Diaconessenhuis Leiden;Leiden;0;12;52,1740419;4,4827245;NW
+2007;35;Diaconessenhuis Leiden;Leiden;0;12;52,1740419;4,4827245;NW
+2008;59;Diaconessenhuis Leiden;Leiden;0;12;52,1740419;4,4827245;NW
+2009;48;Diaconessenhuis Leiden;Leiden;0;12;52,1740419;4,4827245;NW
+2010;77;Diaconessenhuis Leiden;Leiden;70,16;12;52,1740419;4,4827245;NW
+2011;11;Diaconessenhuis Leiden;Leiden;77,65;12;52,1740419;4,4827245;NW
+2012;77;Diaconessenhuis Leiden;Leiden;56,38699387;12;52,1740419;4,4827245;NW
+2013;73;Diaconessenhuis Leiden;Leiden;58,69;12;52,1740419;4,4827245;NW
+2014;77;Diaconessenhuis Leiden;Leiden;62,83;12;52,1740419;4,4827245;NW
+2005;3;Diakonessenhuis;Utrecht;0;13;52,0815587;5,1382644;SW
+2006;10;Diakonessenhuis;Utrecht;0;13;52,0815587;5,1382644;SW
+2007;4;Diakonessenhuis;Utrecht;0;13;52,0815587;5,1382644;SW
+2008;1;Diakonessenhuis;Utrecht;0;13;52,0815587;5,1382644;SW
+2009;5;Diakonessenhuis;Utrecht;0;13;52,0815587;5,1382644;SW
+2010;13;Diakonessenhuis;Utrecht;84,34;13;52,0815587;5,1382644;SW
+2011;62;Diakonessenhuis;Utrecht;68,14;13;52,0815587;5,1382644;SW
+2012;67;Diakonessenhuis;Utrecht;60,34052331;13;52,0815587;5,1382644;SW
+2013;65;Diakonessenhuis;Utrecht;60,71;13;52,0815587;5,1382644;SW
+2014;43;Diakonessenhuis;Utrecht;73,79;13;52,0815587;5,1382644;SW
+2005;74;Elkerliek Ziekenhuis;Helmond;0;14;51,4675241;5,7890921;SE
+2006;84;Elkerliek Ziekenhuis;Helmond;0;14;51,4675241;5,7890921;SE
+2007;12;Elkerliek Ziekenhuis;Helmond;0;14;51,4675241;5,7890921;SE
+2008;36;Elkerliek Ziekenhuis;Helmond;0;14;51,4675241;5,7890921;SE
+2009;95;Elkerliek Ziekenhuis;Helmond;0;14;51,4675241;5,7890921;SE
+2010;14;Elkerliek Ziekenhuis;Helmond;84,21;14;51,4675241;5,7890921;SE
+2011;8;Elkerliek Ziekenhuis;Helmond;79,74;14;51,4675241;5,7890921;SE
+2012;4;Elkerliek Ziekenhuis;Helmond;78,85988304;14;51,4675241;5,7890921;SE
+2013;9;Elkerliek Ziekenhuis;Helmond;77,16;14;51,4675241;5,7890921;SE
+2014;26;Elkerliek Ziekenhuis;Helmond;78;14;51,4675241;5,7890921;SE
+2005;13;Erasmus Medisch Centrum;Rotterdam;0;#N/A;#N/A;#N/A;#N/A
+2006;63;Erasmus Medisch Centrum;Rotterdam;0;#N/A;#N/A;#N/A;#N/A
+2007;41;Erasmus Medisch Centrum;Rotterdam;0;#N/A;#N/A;#N/A;#N/A
+2008;44;Erasmus Medisch Centrum;Rotterdam;0;#N/A;#N/A;#N/A;#N/A
+2009;89;Erasmus Medisch Centrum;Rotterdam;0;#N/A;#N/A;#N/A;#N/A
+2010;79;Erasmus Medisch Centrum;Rotterdam;68,87;#N/A;#N/A;#N/A;#N/A
+2011;16;Erasmus Medisch Centrum;Rotterdam;76,74;#N/A;#N/A;#N/A;#N/A
+2005;32;Flevo ziekenhuis;Almere;0;15;52,3698394;5,223339;NW
+2006;91;Flevo ziekenhuis;Almere;0;15;52,3698394;5,223339;NW
+2007;96;Flevo ziekenhuis;Almere;0;15;52,3698394;5,223339;NW
+2008;97;Flevo ziekenhuis;Almere;0;15;52,3698394;5,223339;NW
+2009;29;Flevo ziekenhuis;Almere;0;15;52,3698394;5,223339;NW
+2010;1;Flevo ziekenhuis;Almere;90,47;15;52,3698394;5,223339;NW
+2011;50;Flevo ziekenhuis;Almere;69,91;15;52,3698394;5,223339;NW
+2012;62;Flevo ziekenhuis;Almere;61,27019851;15;52,3698394;5,223339;NW
+2013;68;Flevo ziekenhuis;Almere;59,78;15;52,3698394;5,223339;NW
+2014;30;Flevo ziekenhuis;Almere;77,2;15;52,3698394;5,223339;NW
+2005;1;Franciscus Ziekenhuis;Roosendaal;0;16;51,5286738;4,4396351;SW
+2006;51;Franciscus Ziekenhuis;Roosendaal;0;16;51,5286738;4,4396351;SW
+2007;75;Franciscus Ziekenhuis;Roosendaal;0;16;51,5286738;4,4396351;SW
+2008;77;Franciscus Ziekenhuis;Roosendaal;0;16;51,5286738;4,4396351;SW
+2009;7;Franciscus Ziekenhuis;Roosendaal;0;16;51,5286738;4,4396351;SW
+2010;25;Franciscus Ziekenhuis;Roosendaal;82,06;16;51,5286738;4,4396351;SW
+2011;71;Franciscus Ziekenhuis;Roosendaal;66,56;16;51,5286738;4,4396351;SW
+2012;56;Franciscus Ziekenhuis;Roosendaal;63,63099415;16;51,5286738;4,4396351;SW
+2013;12;Franciscus Ziekenhuis;Roosendaal;76,54;16;51,5286738;4,4396351;SW
+2014;40;Franciscus Ziekenhuis;Roosendaal;75,42;16;51,5286738;4,4396351;SW
+2009;80;Gelre Ziekenhuizen;Zutphen;0;17;52,181417;5,947418;NE
+2010;90;Gelre Ziekenhuizen;Zutphen;64,38;17;52,181417;5,947418;NE
+2011;65;Gelre Ziekenhuizen;Zutphen;67,66;17;52,181417;5,947418;NE
+2011;66;Gelre Ziekenhuizen;Apeldoorn;67,18;17;52,181417;5,947418;NE
+2012;42;Gelre Ziekenhuizen;Zutphen;66,45132953;17;52,181417;5,947418;NE
+2012;43;Gelre Ziekenhuizen;Apeldoorn;66,26069804;17;52,181417;5,947418;NE
+2013;49;Gelre Ziekenhuizen;Apeldoorn;65,2;17;52,181417;5,947418;NE
+2013;80;Gelre Ziekenhuizen;Zutphen;49,76;17;52,181417;5,947418;NE
+2014;37;Gelre Ziekenhuizen;Apeldoorn;76,03;17;52,181417;5,947418;NE
+2014;75;Gelre Ziekenhuizen;Zutphen;64,83;17;52,181417;5,947418;NE
+2005;85;Gemini Ziekenhuis;Den Helder;0;19;52,9578028;4,7449108;NW
+2006;62;Gemini Ziekenhuis;Den Helder;0;19;52,9578028;4,7449108;NW
+2007;95;Gemini Ziekenhuis;Den Helder;0;19;52,9578028;4,7449108;NW
+2008;92;Gemini Ziekenhuis;Den Helder;0;19;52,9578028;4,7449108;NW
+2009;91;Gemini Ziekenhuis;Den Helder;0;19;52,9578028;4,7449108;NW
+2010;87;Gemini Ziekenhuis;Den Helder;66,67;19;52,9578028;4,7449108;NW
+2011;33;Gemini Ziekenhuis;Den Helder;73,07;19;52,9578028;4,7449108;NW
+2012;50;Gemini Ziekenhuis;Den Helder;64,54591195;19;52,9578028;4,7449108;NW
+2013;34;Gemini Ziekenhuis;Den Helder;69,12;19;52,9578028;4,7449108;NW
+2014;62;Gemini Ziekenhuis;Den Helder;69,41;19;52,9578028;4,7449108;NW
+2005;9;Groene Hart Ziekenhuis;Gouda;0;20;52,0191484;4,7143272;SW
+2006;40;Groene Hart Ziekenhuis;Gouda;0;20;52,0191484;4,7143272;SW
+2007;11;Groene Hart Ziekenhuis;Gouda;0;20;52,0191484;4,7143272;SW
+2008;48;Groene Hart Ziekenhuis;Gouda;0;20;52,0191484;4,7143272;SW
+2009;88;Groene Hart Ziekenhuis;Gouda;0;20;52,0191484;4,7143272;SW
+2010;20;Groene Hart Ziekenhuis;Gouda;82,9;20;52,0191484;4,7143272;SW
+2011;28;Groene Hart Ziekenhuis;Gouda;75,22;20;52,0191484;4,7143272;SW
+2012;75;Groene Hart Ziekenhuis;Gouda;57,70647786;20;52,0191484;4,7143272;SW
+2013;26;Groene Hart Ziekenhuis;Gouda;71,33;20;52,0191484;4,7143272;SW
+2014;7;Groene Hart Ziekenhuis;Gouda;84,48;20;52,0191484;4,7143272;SW
+2005;78;Haga Ziekenhuis;Den Haag;0;21;52,082057;4,264415;SW
+2006;67;Haga Ziekenhuis;Den Haag;0;21;52,082057;4,264415;SW
+2007;69;Haga Ziekenhuis;Den Haag;0;21;52,082057;4,264415;SW
+2008;60;Haga Ziekenhuis;Den Haag;0;21;52,082057;4,264415;SW
+2009;43;Haga Ziekenhuis;Den Haag;0;21;52,082057;4,264415;SW
+2010;69;Haga Ziekenhuis;Den Haag;72,23;21;52,082057;4,264415;SW
+2011;52;Haga Ziekenhuis;Den Haag;69,67;21;52,082057;4,264415;SW
+2012;34;Haga Ziekenhuis;Den Haag;68,3145464;21;52,082057;4,264415;SW
+2013;74;Haga Ziekenhuis;Den Haag;57,62;21;52,082057;4,264415;SW
+2014;12;Haga Ziekenhuis;Den Haag;81,78;21;52,082057;4,264415;SW
+2005;88;Havenziekenhuis;Rotterdam;0;22;51,9204854;4,4982987;SW
+2006;66;Havenziekenhuis;Rotterdam;0;22;51,9204854;4,4982987;SW
+2007;93;Havenziekenhuis;Rotterdam;0;22;51,9204854;4,4982987;SW
+2008;90;Havenziekenhuis;Rotterdam;0;22;51,9204854;4,4982987;SW
+2009;72;Havenziekenhuis;Rotterdam;0;22;51,9204854;4,4982987;SW
+2010;91;Havenziekenhuis;Rotterdam;64,22;22;51,9204854;4,4982987;SW
+2011;20;Havenziekenhuis;Rotterdam;75,65;22;51,9204854;4,4982987;SW
+2012;69;Havenziekenhuis;Rotterdam;59,75159327;22;51,9204854;4,4982987;SW
+2013;70;Havenziekenhuis;Rotterdam;59,03;22;51,9204854;4,4982987;SW
+2014;82;Havenziekenhuis;Rotterdam;48,05;22;51,9204854;4,4982987;SW
+2005;33;IJsselland Ziekenhuis;Capelle aan den IJssel;0;23;51,9380827;4,5622742;SW
+2006;87;IJsselland Ziekenhuis;Capelle aan den IJssel;0;23;51,9380827;4,5622742;SW
+2007;26;IJsselland Ziekenhuis;Capelle aan den IJssel;0;23;51,9380827;4,5622742;SW
+2008;71;IJsselland Ziekenhuis;Capelle aan den IJssel;0;23;51,9380827;4,5622742;SW
+2009;76;IJsselland Ziekenhuis;Capelle aan den IJssel;0;23;51,9380827;4,5622742;SW
+2010;51;IJsselland Ziekenhuis;Capelle aan den IJssel;76,36;23;51,9380827;4,5622742;SW
+2011;9;IJsselland Ziekenhuis;Capelle aan den IJssel;79,18;23;51,9380827;4,5622742;SW
+2012;16;IJsselland Ziekenhuis;Capelle aan den IJssel;72,81408788;23;51,9380827;4,5622742;SW
+2013;44;IJsselland Ziekenhuis;Capelle aan den IJssel;66,25;23;51,9380827;4,5622742;SW
+2014;19;IJsselland Ziekenhuis;Capelle aan den IJssel;80,46;23;51,9380827;4,5622742;SW
+2005;67;Ijsselmeer ziekenhuis;Lelystad;0;24;52,5043077;5,4769717;NE
+2006;88;Ijsselmeer ziekenhuis;Lelystad;0;24;52,5043077;5,4769717;NE
+2007;91;Ijsselmeer ziekenhuis;Lelystad;0;24;52,5043077;5,4769717;NE
+2008;96;Ijsselmeer ziekenhuis;Lelystad;0;24;52,5043077;5,4769717;NE
+2009;99;Ijsselmeer ziekenhuis;Lelystad;0;24;52,5043077;5,4769717;NE
+2010;72;Ijsselmeer ziekenhuis;Lelystad;71,03;24;52,5043077;5,4769717;NE
+2011;82;Ijsselmeer ziekenhuis;Lelystad;63,78;24;52,5043077;5,4769717;NE
+2012;10;Ijsselmeer ziekenhuis;Lelystad;76,15853708;24;52,5043077;5,4769717;NE
+2013;39;Ijsselmeer ziekenhuis;Lelystad;67,78;24;52,5043077;5,4769717;NE
+2014;48;Ijsselmeer ziekenhuis;Lelystad;72,86;24;52,5043077;5,4769717;NE
+2005;42;Ikazia Ziekenhuis;Rotterdam;0;25;51,886169;4,4939073;SW
+2006;76;Ikazia Ziekenhuis;Rotterdam;0;25;51,886169;4,4939073;SW
+2007;37;Ikazia Ziekenhuis;Rotterdam;0;25;51,886169;4,4939073;SW
+2008;42;Ikazia Ziekenhuis;Rotterdam;0;25;51,886169;4,4939073;SW
+2009;14;Ikazia Ziekenhuis;Rotterdam;0;25;51,886169;4,4939073;SW
+2010;36;Ikazia Ziekenhuis;Rotterdam;80,09;25;51,886169;4,4939073;SW
+2011;2;Ikazia Ziekenhuis;Rotterdam;86,53;25;51,886169;4,4939073;SW
+2012;8;Ikazia Ziekenhuis;Rotterdam;76,67984426;25;51,886169;4,4939073;SW
+2013;35;Ikazia Ziekenhuis;Rotterdam;68,14;25;51,886169;4,4939073;SW
+2014;5;Ikazia Ziekenhuis;Rotterdam;86,64;25;51,886169;4,4939073;SW
+2005;14;Isala Klinieken;Zwolle;0;26;52,5132719;6,1243285;NE
+2006;16;Isala Klinieken;Zwolle;0;26;52,5132719;6,1243285;NE
+2007;6;Isala Klinieken;Zwolle;0;26;52,5132719;6,1243285;NE
+2008;32;Isala Klinieken;Zwolle;0;26;52,5132719;6,1243285;NE
+2009;16;Isala Klinieken;Zwolle;0;26;52,5132719;6,1243285;NE
+2010;24;Isala Klinieken;Zwolle;82,37;26;52,5132719;6,1243285;NE
+2011;41;Isala Klinieken;Zwolle;70,97;26;52,5132719;6,1243285;NE
+2012;51;Isala Klinieken;Zwolle;64,13361582;26;52,5132719;6,1243285;NE
+2013;53;Isala Klinieken;Zwolle;64,33;26;52,5132719;6,1243285;NE
+2014;76;Isala Klinieken;Zwolle;63,72;26;52,5132719;6,1243285;NE
+2005;70;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;0;27;51,6852362;5,2758939;SW
+2006;46;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;0;27;51,6852362;5,2758939;SW
+2007;20;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;0;27;51,6852362;5,2758939;SW
+2008;2;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;0;27;51,6852362;5,2758939;SW
+2009;52;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;0;27;51,6852362;5,2758939;SW
+2010;74;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;70,66;27;51,6852362;5,2758939;SW
+2011;72;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;66,29;27;51,6852362;5,2758939;SW
+2012;47;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;65,10042549;27;51,6852362;5,2758939;SW
+2013;60;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;62,52;27;51,6852362;5,2758939;SW
+2014;45;Jeroen Bosch Ziekenhuis;s-Hertogenbosch;73,37;27;51,6852362;5,2758939;SW
+2005;69;Kennemer Gasthuis;Haarlem;0;28;52,4227956;4,6495819;NW
+2006;79;Kennemer Gasthuis;Haarlem;0;28;52,4227956;4,6495819;NW
+2007;92;Kennemer Gasthuis;Haarlem;0;28;52,4227956;4,6495819;NW
+2008;88;Kennemer Gasthuis;Haarlem;0;28;52,4227956;4,6495819;NW
+2009;37;Kennemer Gasthuis;Haarlem;0;28;52,4227956;4,6495819;NW
+2010;53;Kennemer Gasthuis;Haarlem;75,63;28;52,4227956;4,6495819;NW
+2011;85;Kennemer Gasthuis;Haarlem;62,96;28;52,4227956;4,6495819;NW
+2012;45;Kennemer Gasthuis;Haarlem;66,05431768;28;52,4227956;4,6495819;NW
+2013;41;Kennemer Gasthuis;Haarlem;66,92;28;52,4227956;4,6495819;NW
+2014;4;Kennemer Gasthuis;Haarlem;87,54;28;52,4227956;4,6495819;NW
+2005;86;Laurentius Ziekenhuis;Roermond;0;29;51,1923918;6,0005231;SE
+2006;44;Laurentius Ziekenhuis;Roermond;0;29;51,1923918;6,0005231;SE
+2007;51;Laurentius Ziekenhuis;Roermond;0;29;51,1923918;6,0005231;SE
+2008;66;Laurentius Ziekenhuis;Roermond;0;29;51,1923918;6,0005231;SE
+2009;54;Laurentius Ziekenhuis;Roermond;0;29;51,1923918;6,0005231;SE
+2010;47;Laurentius Ziekenhuis;Roermond;77,32;29;51,1923918;6,0005231;SE
+2011;21;Laurentius Ziekenhuis;Roermond;75,64;29;51,1923918;6,0005231;SE
+2012;19;Laurentius Ziekenhuis;Roermond;72,43655255;29;51,1923918;6,0005231;SE
+2013;37;Laurentius Ziekenhuis;Roermond;68,03;29;51,1923918;6,0005231;SE
+2014;55;Laurentius Ziekenhuis;Roermond;71,07;29;51,1923918;6,0005231;SE
+2005;77;Lievensberg Ziekenhuis;Bergen op Zoom;0;30;51,4868856;4,3142022;SW
+2006;59;Lievensberg Ziekenhuis;Bergen op Zoom;0;30;51,4868856;4,3142022;SW
+2007;64;Lievensberg Ziekenhuis;Bergen op Zoom;0;30;51,4868856;4,3142022;SW
+2008;33;Lievensberg Ziekenhuis;Bergen op Zoom;0;30;51,4868856;4,3142022;SW
+2009;30;Lievensberg Ziekenhuis;Bergen op Zoom;0;30;51,4868856;4,3142022;SW
+2010;30;Lievensberg Ziekenhuis;Bergen op Zoom;80,7;30;51,4868856;4,3142022;SW
+2011;29;Lievensberg Ziekenhuis;Bergen op Zoom;74,91;30;51,4868856;4,3142022;SW
+2012;48;Lievensberg Ziekenhuis;Bergen op Zoom;64,7585292;30;51,4868856;4,3142022;SW
+2013;25;Lievensberg Ziekenhuis;Bergen op Zoom;72,25;30;51,4868856;4,3142022;SW
+2014;29;Lievensberg Ziekenhuis;Bergen op Zoom;77,24;30;51,4868856;4,3142022;SW
+2005;89;Máxima Medisch Centrum;Eindhoven;0;31;51,4063373;5,4197279;SE
+2006;96;Máxima Medisch Centrum;Eindhoven;0;31;51,4063373;5,4197279;SE
+2007;54;Máxima Medisch Centrum;Eindhoven;0;31;51,4063373;5,4197279;SE
+2008;25;Máxima Medisch Centrum;Eindhoven;0;31;51,4063373;5,4197279;SE
+2009;46;Máxima Medisch Centrum;Eindhoven;0;31;51,4063373;5,4197279;SE
+2010;21;Máxima Medisch Centrum;Eindhoven;82,6;31;51,4063373;5,4197279;SE
+2011;46;Máxima Medisch Centrum;Eindhoven;70,15;31;51,4063373;5,4197279;SE
+2012;30;Máxima Medisch Centrum;Veldhoven;68,84119752;31;51,4063373;5,4197279;SE
+2013;36;Máxima Medisch Centrum;Veldhoven;68,13;31;51,4063373;5,4197279;SE
+2014;54;Máxima Medisch Centrum;Veldhoven;71,61;31;51,4063373;5,4197279;SE
+2005;62;Maas ziekenhuis Pantein;Boxmeer;0;32;51,663522;5,940566;SE
+2006;71;Maas ziekenhuis Pantein;Boxmeer;0;32;51,663522;5,940566;SE
+2007;79;Maas ziekenhuis Pantein;Boxmeer;0;32;51,663522;5,940566;SE
+2008;81;Maas ziekenhuis Pantein;Boxmeer;0;32;51,663522;5,940566;SE
+2009;96;Maas ziekenhuis Pantein;Boxmeer;0;32;51,663522;5,940566;SE
+2010;86;Maas ziekenhuis Pantein;Boxmeer;67,17;32;51,663522;5,940566;SE
+2011;14;Maas ziekenhuis Pantein;Boxmeer;77,34;32;51,663522;5,940566;SE
+2012;64;Maas ziekenhuis Pantein;Boxmeer;61,00631387;32;51,663522;5,940566;SE
+2013;81;Maas ziekenhuis Pantein;Boxmeer;49,16;32;51,663522;5,940566;SE
+2014;74;Maas ziekenhuis Pantein;Boxmeer;65,35;32;51,663522;5,940566;SE
+2005;44;Maasstad Ziekenhuis;Rotterdam;0;33;51,8796485;4,534504;SW
+2006;90;Maasstad Ziekenhuis;Rotterdam;0;33;51,8796485;4,534504;SW
+2007;84;Maasstad Ziekenhuis;Rotterdam;0;33;51,8796485;4,534504;SW
+2008;56;Maasstad Ziekenhuis;Rotterdam;0;33;51,8796485;4,534504;SW
+2009;35;Maasstad Ziekenhuis;Rotterdam;0;33;51,8796485;4,534504;SW
+2010;5;Maasstad Ziekenhuis;Rotterdam;88,8;33;51,8796485;4,534504;SW
+2011;30;Maasstad Ziekenhuis;Rotterdam;74,28;33;51,8796485;4,534504;SW
+2012;60;Maasstad Ziekenhuis;Rotterdam;61,98016306;33;51,8796485;4,534504;SW
+2013;11;Maasstad Ziekenhuis;Rotterdam;76,71;33;51,8796485;4,534504;SW
+2014;9;Maasstad Ziekenhuis;Rotterdam;82,46;33;51,8796485;4,534504;SW
+2005;48;Martini Ziekenhuis;Groningen;0;34;53,1921279;6,5498446;NE
+2006;30;Martini Ziekenhuis;Groningen;0;34;53,1921279;6,5498446;NE
+2007;23;Martini Ziekenhuis;Groningen;0;34;53,1921279;6,5498446;NE
+2008;73;Martini Ziekenhuis;Groningen;0;34;53,1921279;6,5498446;NE
+2009;49;Martini Ziekenhuis;Groningen;0;34;53,1921279;6,5498446;NE
+2010;46;Martini Ziekenhuis;Groningen;77,79;34;53,1921279;6,5498446;NE
+2011;55;Martini Ziekenhuis;Groningen;69,25;34;53,1921279;6,5498446;NE
+2012;52;Martini Ziekenhuis;Groningen;64,06216087;34;53,1921279;6,5498446;NE
+2013;78;Martini Ziekenhuis;Groningen;53,32;34;53,1921279;6,5498446;NE
+2014;34;Martini Ziekenhuis;Groningen;76,75;34;53,1921279;6,5498446;NE
+2005;76;MC Haaglanden (Antoniushove);Leidschendam;0;#N/A;#N/A;#N/A;#N/A
+2006;56;MC Haaglanden (Antoniushove);Leidschendam;0;#N/A;#N/A;#N/A;#N/A
+2007;57;MC Haaglanden (Antoniushove);Leidschendam;0;#N/A;#N/A;#N/A;#N/A
+2008;39;MC Haaglanden (Antoniushove);Leidschendam;0;#N/A;#N/A;#N/A;#N/A
+2009;65;MC Haaglanden (Antoniushove);Leidschendam;0;#N/A;#N/A;#N/A;#N/A
+2010;16;MC Haaglanden (Antoniushove);Leidschendam;83,67;#N/A;#N/A;#N/A;#N/A
+2005;80;Meander Medisch Centrum;Amersfoort;0;35;51,9770461;5,9670448;SE
+2006;50;Meander Medisch Centrum;Amersfoort;0;35;51,9770461;5,9670448;SE
+2007;24;Meander Medisch Centrum;Amersfoort;0;35;51,9770461;5,9670448;SE
+2008;18;Meander Medisch Centrum;Amersfoort;0;35;51,9770461;5,9670448;SE
+2009;18;Meander Medisch Centrum;Amersfoort;0;35;51,9770461;5,9670448;SE
+2010;22;Meander Medisch Centrum;Amersfoort;82,48;35;51,9770461;5,9670448;SE
+2011;18;Meander Medisch Centrum;Amersfoort;76,43;35;51,9770461;5,9670448;SE
+2012;1;Meander Medisch Centrum;Amersfoort;83,4621259;35;51,9770461;5,9670448;SE
+2013;7;Meander Medisch Centrum;Amersfoort;77,82;35;51,9770461;5,9670448;SE
+2014;13;Meander Medisch Centrum;Amersfoort;81,7;35;51,9770461;5,9670448;SE
+2005;23;Medisch Centrum Alkmaar;Alkmaar;0;36;52,6276246;4,7376943;NW
+2006;47;Medisch Centrum Alkmaar;Alkmaar;0;36;52,6276246;4,7376943;NW
+2007;82;Medisch Centrum Alkmaar;Alkmaar;0;36;52,6276246;4,7376943;NW
+2008;63;Medisch Centrum Alkmaar;Alkmaar;0;36;52,6276246;4,7376943;NW
+2009;24;Medisch Centrum Alkmaar;Alkmaar;0;36;52,6276246;4,7376943;NW
+2010;70;Medisch Centrum Alkmaar;Alkmaar;71,85;36;52,6276246;4,7376943;NW
+2011;35;Medisch Centrum Alkmaar;Alkmaar;72,57;36;52,6276246;4,7376943;NW
+2012;20;Medisch Centrum Alkmaar;Alkmaar;71,8880873;36;52,6276246;4,7376943;NW
+2013;33;Medisch Centrum Alkmaar;Alkmaar;69,12;36;52,6276246;4,7376943;NW
+2014;68;Medisch Centrum Alkmaar;Alkmaar;67,35;36;52,6276246;4,7376943;NW
+2005;76;Medisch Centrum Haaglanden;Den Haag;0;37;52,0929735;4,3835212;SW
+2006;36;Medisch Centrum Haaglanden;Den Haag;0;37;52,0929735;4,3835212;SW
+2007;78;Medisch Centrum Haaglanden;Den Haag;0;37;52,0929735;4,3835212;SW
+2008;52;Medisch Centrum Haaglanden;Den Haag;0;37;52,0929735;4,3835212;SW
+2009;70;Medisch Centrum Haaglanden;Den Haag;0;37;52,0929735;4,3835212;SW
+2010;27;Medisch Centrum Haaglanden;Den Haag;81,41;37;52,0929735;4,3835212;SW
+2011;12;Medisch Centrum Haaglanden;Den Haag;77,53;37;52,0929735;4,3835212;SW
+2012;24;Medisch Centrum Haaglanden;Den Haag;69,85422334;37;52,0929735;4,3835212;SW
+2013;31;Medisch Centrum Haaglanden;Den Haag;69,49;37;52,0929735;4,3835212;SW
+2014;2;Medisch Centrum Haaglanden;Den Haag;87,99;37;52,0929735;4,3835212;SW
+2005;22;Medisch Centrum Leeuwarden;Leeuwarden;0;38;53,188756;5,806735;NE
+2006;1;Medisch Centrum Leeuwarden;Leeuwarden;0;38;53,188756;5,806735;NE
+2007;21;Medisch Centrum Leeuwarden;Leeuwarden;0;38;53,188756;5,806735;NE
+2008;40;Medisch Centrum Leeuwarden;Leeuwarden;0;38;53,188756;5,806735;NE
+2009;45;Medisch Centrum Leeuwarden;Leeuwarden;0;38;53,188756;5,806735;NE
+2010;43;Medisch Centrum Leeuwarden;Leeuwarden;78,21;38;53,188756;5,806735;NE
+2011;26;Medisch Centrum Leeuwarden;Leeuwarden;75,34;38;53,188756;5,806735;NE
+2012;54;Medisch Centrum Leeuwarden;Leeuwarden;63,90117123;38;53,188756;5,806735;NE
+2013;83;Medisch Centrum Leeuwarden;Leeuwarden;45,5;38;53,188756;5,806735;NE
+2014;18;Medisch Centrum Leeuwarden;Leeuwarden;80,51;38;53,188756;5,806735;NE
+2005;81;Medisch Spectrum Twente;Enschede;0;39;52,2125137;6,6613504;NE
+2006;55;Medisch Spectrum Twente;Enschede;0;39;52,2125137;6,6613504;NE
+2007;70;Medisch Spectrum Twente;Enschede;0;39;52,2125137;6,6613504;NE
+2008;79;Medisch Spectrum Twente;Enschede;0;39;52,2125137;6,6613504;NE
+2009;61;Medisch Spectrum Twente;Enschede;0;39;52,2125137;6,6613504;NE
+2010;61;Medisch Spectrum Twente;Enschede;74,58;39;52,2125137;6,6613504;NE
+2011;73;Medisch Spectrum Twente;Enschede;66,13;39;52,2125137;6,6613504;NE
+2012;17;Medisch Spectrum Twente;Enschede;72,7642022;39;52,2125137;6,6613504;NE
+2013;23;Medisch Spectrum Twente;Enschede;72,47;39;52,2125137;6,6613504;NE
+2014;47;Medisch Spectrum Twente;Enschede;73,12;39;52,2125137;6,6613504;NE
+2005;4;Nij Smellinghe Ziekenhuis;Drachten;0;40;53,0998559;6,1108264;NE
+2006;11;Nij Smellinghe Ziekenhuis;Drachten;0;40;53,0998559;6,1108264;NE
+2007;25;Nij Smellinghe Ziekenhuis;Drachten;0;40;53,0998559;6,1108264;NE
+2008;6;Nij Smellinghe Ziekenhuis;Drachten;0;40;53,0998559;6,1108264;NE
+2009;53;Nij Smellinghe Ziekenhuis;Drachten;0;40;53,0998559;6,1108264;NE
+2010;23;Nij Smellinghe Ziekenhuis;Drachten;82,42;40;53,0998559;6,1108264;NE
+2011;39;Nij Smellinghe Ziekenhuis;Drachten;71,22;40;53,0998559;6,1108264;NE
+2012;58;Nij Smellinghe Ziekenhuis;Drachten;62,97118892;40;53,0998559;6,1108264;NE
+2013;47;Nij Smellinghe Ziekenhuis;Drachten;65,53;40;53,0998559;6,1108264;NE
+2014;32;Nij Smellinghe Ziekenhuis;Drachten;76,91;40;53,0998559;6,1108264;NE
+2005;98;Ommelander Ziekenhuis Groep;Delfzijl;0;41;53,146272;7,0349835;NE
+2006;83;Ommelander Ziekenhuis Groep;Delfzijl;0;41;53,146272;7,0349835;NE
+2007;18;Ommelander Ziekenhuis Groep;Delfzijl;0;41;53,146272;7,0349835;NE
+2008;28;Ommelander Ziekenhuis Groep;Delfzijl;0;41;53,146272;7,0349835;NE
+2009;74;Ommelander Ziekenhuis Groep;Delfzijl;0;41;53,146272;7,0349835;NE
+2010;97;Ommelander Ziekenhuis Groep;Delfzijl;58,04;41;53,146272;7,0349835;NE
+2011;70;Ommelander Ziekenhuis Groep;Delfzijl;66,6;41;53,146272;7,0349835;NE
+2012;85;Ommelander Ziekenhuis Groep;Delfzijl;42,16880756;41;53,146272;7,0349835;NE
+2013;43;Ommelander Ziekenhuis Groep;Delfzijl;66,37;41;53,146272;7,0349835;NE
+2014;20;Ommelander Ziekenhuis Groep;Delfzijl;80,02;41;53,146272;7,0349835;NE
+2005;43;Onze Lieve Vrouwe Gasthuis;Amsterdam;0;42;52,3581773;4,9150291;NW
+2006;64;Onze Lieve Vrouwe Gasthuis;Amsterdam;0;42;52,3581773;4,9150291;NW
+2007;38;Onze Lieve Vrouwe Gasthuis;Amsterdam;0;42;52,3581773;4,9150291;NW
+2008;5;Onze Lieve Vrouwe Gasthuis;Amsterdam;0;42;52,3581773;4,9150291;NW
+2009;11;Onze Lieve Vrouwe Gasthuis;Amsterdam;0;42;52,3581773;4,9150291;NW
+2010;18;Onze Lieve Vrouwe Gasthuis;Amsterdam;83,48;42;52,3581773;4,9150291;NW
+2011;75;Onze Lieve Vrouwe Gasthuis;Amsterdam;65,53;42;52,3581773;4,9150291;NW
+2012;72;Onze Lieve Vrouwe Gasthuis;Amsterdam;58,33318541;42;52,3581773;4,9150291;NW
+2013;69;Onze Lieve Vrouwe Gasthuis;Amsterdam;59,45;42;52,3581773;4,9150291;NW
+2014;24;Onze Lieve Vrouwe Gasthuis;Amsterdam;79,17;42;52,3581773;4,9150291;NW
+2005;50;Oosterscheldeziekenhuizen;Goes;0;#N/A;#N/A;#N/A;#N/A
+2006;98;Oosterscheldeziekenhuizen;Goes;0;#N/A;#N/A;#N/A;#N/A
+2007;85;Oosterscheldeziekenhuizen;Goes;0;#N/A;#N/A;#N/A;#N/A
+2008;80;Oosterscheldeziekenhuizen;Goes;0;#N/A;#N/A;#N/A;#N/A
+2009;60;Oosterscheldeziekenhuizen;Goes;0;#N/A;#N/A;#N/A;#N/A
+2010;60;Oosterscheldeziekenhuizen;Goes;74,84;#N/A;#N/A;#N/A;#N/A
+2005;2;Orbis Medisch Centrum;Sittard;0;43;50,982971;5,845144;SE
+2006;25;Orbis Medisch Centrum;Sittard;0;43;50,982971;5,845144;SE
+2007;29;Orbis Medisch Centrum;Sittard;0;43;50,982971;5,845144;SE
+2008;4;Orbis Medisch Centrum;Sittard;0;43;50,982971;5,845144;SE
+2009;17;Orbis Medisch Centrum;Sittard;0;43;50,982971;5,845144;SE
+2010;4;Orbis Medisch Centrum;Sittard;88,82;43;50,982971;5,845144;SE
+2011;23;Orbis Medisch Centrum;Sittard;75,49;43;50,982971;5,845144;SE
+2012;35;Orbis Medisch Centrum;Sittard;68,07098925;43;50,982971;5,845144;SE
+2013;30;Orbis Medisch Centrum;Sittard;70,01;43;50,982971;5,845144;SE
+2014;21;Orbis Medisch Centrum;Sittard;79,99;43;50,982971;5,845144;SE
+2005;72;Röpke-Zweers Ziekenhuis;Hardenberg;0;44;52,5714587;6,6321099;NE
+2006;33;Röpke-Zweers Ziekenhuis;Hardenberg;0;44;52,5714587;6,6321099;NE
+2007;52;Röpke-Zweers Ziekenhuis;Hardenberg;0;44;52,5714587;6,6321099;NE
+2008;91;Röpke-Zweers Ziekenhuis;Hardenberg;0;44;52,5714587;6,6321099;NE
+2009;83;Röpke-Zweers Ziekenhuis;Hardenberg;0;44;52,5714587;6,6321099;NE
+2010;89;Röpke-Zweers Ziekenhuis;Hardenberg;64,72;44;52,5714587;6,6321099;NE
+2011;59;Röpke-Zweers Ziekenhuis;Hardenberg;68,71;44;52,5714587;6,6321099;NE
+2012;68;Röpke-Zweers Ziekenhuis;Hardenberg;60,22484908;44;52,5714587;6,6321099;NE
+2013;52;Röpke-Zweers Ziekenhuis;Hardenberg;64,53;44;52,5714587;6,6321099;NE
+2014;73;Röpke-Zweers Ziekenhuis;Hardenberg;65,88;44;52,5714587;6,6321099;NE
+2005;26;Refaja Ziekenhuis;Stadskanaal;0;45;53,0010791;6,9357635;NE
+2006;9;Refaja Ziekenhuis;Stadskanaal;0;45;53,0010791;6,9357635;NE
+2007;17;Refaja Ziekenhuis;Stadskanaal;0;45;53,0010791;6,9357635;NE
+2008;76;Refaja Ziekenhuis;Stadskanaal;0;45;53,0010791;6,9357635;NE
+2009;73;Refaja Ziekenhuis;Stadskanaal;0;45;53,0010791;6,9357635;NE
+2010;98;Refaja Ziekenhuis;Stadskanaal;53,74;45;53,0010791;6,9357635;NE
+2011;93;Refaja Ziekenhuis;Stadskanaal;54,59;45;53,0010791;6,9357635;NE
+2012;53;Refaja Ziekenhuis;Stadskanaal;63,98076923;45;53,0010791;6,9357635;NE
+2013;16;Refaja Ziekenhuis;Stadskanaal;75,1;45;53,0010791;6,9357635;NE
+2014;71;Refaja Ziekenhuis;Stadskanaal;66,45;45;53,0010791;6,9357635;NE
+2005;66;Reinier de Graaf Groep;Delft;0;46;51,9977102;4,3402252;SW
+2006;35;Reinier de Graaf Groep;Delft;0;46;51,9977102;4,3402252;SW
+2007;36;Reinier de Graaf Groep;Delft;0;46;51,9977102;4,3402252;SW
+2008;15;Reinier de Graaf Groep;Delft;0;46;51,9977102;4,3402252;SW
+2009;36;Reinier de Graaf Groep;Delft;0;46;51,9977102;4,3402252;SW
+2010;40;Reinier de Graaf Groep;Delft;78,59;46;51,9977102;4,3402252;SW
+2011;44;Reinier de Graaf Groep;Delft;70,37;46;51,9977102;4,3402252;SW
+2012;49;Reinier de Graaf Groep;Delft;64,74050133;46;51,9977102;4,3402252;SW
+2013;24;Reinier de Graaf Groep;Delft;72,33;46;51,9977102;4,3402252;SW
+2014;38;Reinier de Graaf Groep;Delft;75,91;46;51,9977102;4,3402252;SW
+2005;8;Rijnland Ziekenhuis;Leiderdorp;0;47;52,1427692;4,6615043;NW
+2006;58;Rijnland Ziekenhuis;Leiderdorp;0;47;52,1427692;4,6615043;NW
+2007;40;Rijnland Ziekenhuis;Leiderdorp;0;47;52,1427692;4,6615043;NW
+2008;70;Rijnland Ziekenhuis;Leiderdorp;0;47;52,1427692;4,6615043;NW
+2009;90;Rijnland Ziekenhuis;Leiderdorp;0;47;52,1427692;4,6615043;NW
+2010;49;Rijnland Ziekenhuis;Leiderdorp;77,15;47;52,1427692;4,6615043;NW
+2011;42;Rijnland Ziekenhuis;Alphen ad Rijn;70,62;47;52,1427692;4,6615043;NW
+2012;63;Rijnland Ziekenhuis;Leiderdorp;61,05542642;47;52,1427692;4,6615043;NW
+2013;3;Rijnland Ziekenhuis;Leiderdorp;80,17;47;52,1427692;4,6615043;NW
+2014;35;Rijnland Ziekenhuis;Leiderdorp;76,44;47;52,1427692;4,6615043;NW
+2005;40;Rijnstate Ziekenhuis;Arnhem;0;48;52,0010694;5,9100663;SE
+2006;48;Rijnstate Ziekenhuis;Arnhem;0;48;52,0010694;5,9100663;SE
+2007;44;Rijnstate Ziekenhuis;Arnhem;0;48;52,0010694;5,9100663;SE
+2008;54;Rijnstate Ziekenhuis;Arnhem;0;48;52,0010694;5,9100663;SE
+2009;6;Rijnstate Ziekenhuis;Arnhem;0;48;52,0010694;5,9100663;SE
+2010;15;Rijnstate Ziekenhuis;Arnhem;83,98;48;52,0010694;5,9100663;SE
+2011;32;Rijnstate Ziekenhuis;Arnhem;74,08;48;52,0010694;5,9100663;SE
+2012;14;Rijnstate Ziekenhuis;Arnhem;73,89523404;48;52,0010694;5,9100663;SE
+2013;15;Rijnstate Ziekenhuis;Arnhem;75,54;48;52,0010694;5,9100663;SE
+2014;6;Rijnstate Ziekenhuis;Arnhem;85,66;48;52,0010694;5,9100663;SE
+2005;57;Rode Kruis Ziekenhuis;Beverwijk;0;49;52,4791281;4,6506;NW
+2006;75;Rode Kruis Ziekenhuis;Beverwijk;0;49;52,4791281;4,6506;NW
+2007;90;Rode Kruis Ziekenhuis;Beverwijk;0;49;52,4791281;4,6506;NW
+2008;26;Rode Kruis Ziekenhuis;Beverwijk;0;49;52,4791281;4,6506;NW
+2009;15;Rode Kruis Ziekenhuis;Beverwijk;0;49;52,4791281;4,6506;NW
+2010;12;Rode Kruis Ziekenhuis;Beverwijk;84,4;49;52,4791281;4,6506;NW
+2011;81;Rode Kruis Ziekenhuis;Beverwijk;63,87;49;52,4791281;4,6506;NW
+2012;57;Rode Kruis Ziekenhuis;Beverwijk;63,62258953;49;52,4791281;4,6506;NW
+2013;45;Rode Kruis Ziekenhuis;Beverwijk;66,01;49;52,4791281;4,6506;NW
+2014;78;Rode Kruis Ziekenhuis;Beverwijk;62,74;49;52,4791281;4,6506;NW
+2005;58;Ruwaard van Putten Ziekenhuis;Spijkenisse;0;50;51,8561502;4,2972181;SW
+2006;28;Ruwaard van Putten Ziekenhuis;Spijkenisse;0;50;51,8561502;4,2972181;SW
+2007;88;Ruwaard van Putten Ziekenhuis;Spijkenisse;0;50;51,8561502;4,2972181;SW
+2008;67;Ruwaard van Putten Ziekenhuis;Spijkenisse;0;50;51,8561502;4,2972181;SW
+2009;67;Ruwaard van Putten Ziekenhuis;Spijkenisse;0;50;51,8561502;4,2972181;SW
+2010;83;Ruwaard van Putten Ziekenhuis;Spijkenisse;68,41;50;51,8561502;4,2972181;SW
+2011;87;Ruwaard van Putten Ziekenhuis;Spijkenisse;61,95;50;51,8561502;4,2972181;SW
+2012;26;Ruwaard van Putten Ziekenhuis;Spijkenisse;69,3381807;50;51,8561502;4,2972181;SW
+2013;79;Ruwaard van Putten Ziekenhuis;Spijkenisse;50,96;50;51,8561502;4,2972181;SW
+2014;81;Ruwaard van Putten Ziekenhuis;Spijkenisse;54,52;50;51,8561502;4,2972181;SW
+2005;47;Scheper Ziekenhuis;Emmen;0;51;52,7859138;6,91341;NE
+2006;54;Scheper Ziekenhuis;Emmen;0;51;52,7859138;6,91341;NE
+2007;31;Scheper Ziekenhuis;Emmen;0;51;52,7859138;6,91341;NE
+2008;47;Scheper Ziekenhuis;Emmen;0;51;52,7859138;6,91341;NE
+2009;85;Scheper Ziekenhuis;Emmen;0;51;52,7859138;6,91341;NE
+2010;94;Scheper Ziekenhuis;Emmen;60,84;51;52,7859138;6,91341;NE
+2011;36;Scheper Ziekenhuis;Emmen;71,73;51;52,7859138;6,91341;NE
+2012;61;Scheper Ziekenhuis;Emmen;61,34336137;51;52,7859138;6,91341;NE
+2013;54;Scheper Ziekenhuis;Emmen;63,89;51;52,7859138;6,91341;NE
+2014;60;Scheper Ziekenhuis;Emmen;70,23;51;52,7859138;6,91341;NE
+2005;83;Sint Franciscus Gasthuis;Rotterdam;0;52;51,94185;4,462831;SW
+2006;31;Sint Franciscus Gasthuis;Rotterdam;0;52;51,94185;4,462831;SW
+2007;45;Sint Franciscus Gasthuis;Rotterdam;0;52;51,94185;4,462831;SW
+2008;74;Sint Franciscus Gasthuis;Rotterdam;0;52;51,94185;4,462831;SW
+2009;47;Sint Franciscus Gasthuis;Rotterdam;0;52;51,94185;4,462831;SW
+2010;8;Sint Franciscus Gasthuis;Rotterdam;86,84;52;51,94185;4,462831;SW
+2011;1;Sint Franciscus Gasthuis;Rotterdam;87,33;52;51,94185;4,462831;SW
+2012;6;Sint Franciscus Gasthuis;Rotterdam;77,87976161;52;51,94185;4,462831;SW
+2013;4;Sint Franciscus Gasthuis;Rotterdam;79,63;52;51,94185;4,462831;SW
+2014;22;Sint Franciscus Gasthuis;Rotterdam;79,64;52;51,94185;4,462831;SW
+2005;87;Sint Jans Gasthuis;Weert;0;53;51,1566963;5,713843;SE
+2006;14;Sint Jans Gasthuis;Weert;0;53;51,1566963;5,713843;SE
+2007;63;Sint Jans Gasthuis;Weert;0;53;51,1566963;5,713843;SE
+2008;24;Sint Jans Gasthuis;Weert;0;53;51,1566963;5,713843;SE
+2009;94;Sint Jans Gasthuis;Weert;0;53;51,1566963;5,713843;SE
+2010;76;Sint Jans Gasthuis;Weert;70,4;53;51,1566963;5,713843;SE
+2011;92;Sint Jans Gasthuis;Weert;56,34;53;51,1566963;5,713843;SE
+2012;66;Sint Jans Gasthuis;Weert;60,47101201;53;51,1566963;5,713843;SE
+2013;67;Sint Jans Gasthuis;Weert;60,43;53;51,1566963;5,713843;SE
+2014;65;Sint Jans Gasthuis;Weert;68,4;53;51,1566963;5,713843;SE
+2005;11;Sint Lucas Andreas Ziekenhuis;Amsterdam;0;54;52,3712642;4,839189;NW
+2006;19;Sint Lucas Andreas Ziekenhuis;Amsterdam;0;54;52,3712642;4,839189;NW
+2007;16;Sint Lucas Andreas Ziekenhuis;Amsterdam;0;54;52,3712642;4,839189;NW
+2008;9;Sint Lucas Andreas Ziekenhuis;Amsterdam;0;54;52,3712642;4,839189;NW
+2009;25;Sint Lucas Andreas Ziekenhuis;Amsterdam;0;54;52,3712642;4,839189;NW
+2010;19;Sint Lucas Andreas Ziekenhuis;Amsterdam;83,13;54;52,3712642;4,839189;NW
+2011;60;Sint Lucas Andreas Ziekenhuis;Amsterdam;68,21;54;52,3712642;4,839189;NW
+2012;37;Sint Lucas Andreas Ziekenhuis;Amsterdam;67,60986312;54;52,3712642;4,839189;NW
+2013;19;Sint Lucas Andreas Ziekenhuis;Amsterdam;73,79;54;52,3712642;4,839189;NW
+2014;44;Sint Lucas Andreas Ziekenhuis;Amsterdam;73,61;54;52,3712642;4,839189;NW
+2005;38;Sint Lucas Ziekenhuis;Winschoten;0;#N/A;#N/A;#N/A;#N/A
+2006;86;Sint Lucas Ziekenhuis;Winschoten;0;#N/A;#N/A;#N/A;#N/A
+2007;7;Sint Lucas Ziekenhuis;Winschoten;0;#N/A;#N/A;#N/A;#N/A
+2008;61;Sint Lucas Ziekenhuis;Winschoten;0;#N/A;#N/A;#N/A;#N/A
+2009;86;Sint Lucas Ziekenhuis;Winschoten;0;#N/A;#N/A;#N/A;#N/A
+2010;96;Sint Lucas Ziekenhuis;Winschoten;60,12;#N/A;#N/A;#N/A;#N/A
+2011;76;Sint Lucas Ziekenhuis;Winschoten;65,51;#N/A;#N/A;#N/A;#N/A
+2012;79;Sint Lucas Ziekenhuis;Winschoten;54,92282232;#N/A;#N/A;#N/A;#N/A
+2005;65;Slingeland Ziekenhuis;Doetinchem;0;55;51,976323;6,284746;SE
+2006;57;Slingeland Ziekenhuis;Doetinchem;0;55;51,976323;6,284746;SE
+2007;32;Slingeland Ziekenhuis;Doetinchem;0;55;51,976323;6,284746;SE
+2008;7;Slingeland Ziekenhuis;Doetinchem;0;55;51,976323;6,284746;SE
+2009;4;Slingeland Ziekenhuis;Doetinchem;0;55;51,976323;6,284746;SE
+2010;39;Slingeland Ziekenhuis;Doetinchem;78,73;55;51,976323;6,284746;SE
+2011;74;Slingeland Ziekenhuis;Doetinchem;66;55;51,976323;6,284746;SE
+2012;32;Slingeland Ziekenhuis;Doetinchem;68,71039294;55;51,976323;6,284746;SE
+2013;66;Slingeland Ziekenhuis;Doetinchem;60,68;55;51,976323;6,284746;SE
+2014;58;Slingeland Ziekenhuis;Doetinchem;70,42;55;51,976323;6,284746;SE
+2005;68;Slotervaart Ziekenhuis;Amsterdam;0;56;52,347753;4,824518;NW
+2006;89;Slotervaart Ziekenhuis;Amsterdam;0;56;52,347753;4,824518;NW
+2007;66;Slotervaart Ziekenhuis;Amsterdam;0;56;52,347753;4,824518;NW
+2008;95;Slotervaart Ziekenhuis;Amsterdam;0;56;52,347753;4,824518;NW
+2009;31;Slotervaart Ziekenhuis;Amsterdam;0;56;52,347753;4,824518;NW
+2010;54;Slotervaart Ziekenhuis;Amsterdam;75,48;56;52,347753;4,824518;NW
+2011;49;Slotervaart Ziekenhuis;Amsterdam;69,93;56;52,347753;4,824518;NW
+2012;12;Slotervaart Ziekenhuis;Amsterdam;75,76820256;56;52,347753;4,824518;NW
+2013;6;Slotervaart Ziekenhuis;Amsterdam;77,95;56;52,347753;4,824518;NW
+2014;67;Slotervaart Ziekenhuis;Amsterdam;67,77;56;52,347753;4,824518;NW
+2005;49;Spaarne Ziekenhuis;Hoofddorp;0;57;52,3236846;4,6533919;NW
+2006;80;Spaarne Ziekenhuis;Hoofddorp;0;57;52,3236846;4,6533919;NW
+2007;73;Spaarne Ziekenhuis;Hoofddorp;0;57;52,3236846;4,6533919;NW
+2008;49;Spaarne Ziekenhuis;Hoofddorp;0;57;52,3236846;4,6533919;NW
+2009;20;Spaarne Ziekenhuis;Hoofddorp;0;57;52,3236846;4,6533919;NW
+2010;11;Spaarne Ziekenhuis;Hoofddorp;84,63;57;52,3236846;4,6533919;NW
+2011;68;Spaarne Ziekenhuis;Hoofddorp;66,77;57;52,3236846;4,6533919;NW
+2012;21;Spaarne Ziekenhuis;Hoofddorp;71,66636698;57;52,3236846;4,6533919;NW
+2013;72;Spaarne Ziekenhuis;Hoofddorp;58,72;57;52,3236846;4,6533919;NW
+2014;23;Spaarne Ziekenhuis;Hoofddorp;79,39;57;52,3236846;4,6533919;NW
+2005;96;St. Anna Ziekenhuis;Geldrop;0;#N/A;#N/A;#N/A;#N/A
+2006;6;St. Anna Ziekenhuis;Geldrop;0;#N/A;#N/A;#N/A;#N/A
+2007;15;St. Anna Ziekenhuis;Geldrop;0;#N/A;#N/A;#N/A;#N/A
+2008;14;St. Anna Ziekenhuis;Geldrop;0;#N/A;#N/A;#N/A;#N/A
+2009;13;St. Anna Ziekenhuis;Geldrop;0;#N/A;#N/A;#N/A;#N/A
+2010;17;St. Anna Ziekenhuis;Geldrop;83,52;#N/A;#N/A;#N/A;#N/A
+2011;4;St. Anna Ziekenhuis;Geldrop;80,83;#N/A;#N/A;#N/A;#N/A
+2012;15;St. Anna Ziekenhuis;Geldrop;73,51791308;#N/A;#N/A;#N/A;#N/A
+2013;75;St. Anna Ziekenhuis;Geldrop;55,15;#N/A;#N/A;#N/A;#N/A
+2014;42;St. Anna Ziekenhuis;Geldrop;74,41;#N/A;#N/A;#N/A;#N/A
+2005;15;St. Antonius Ziekenhuis;Nieuwegein;0;59;52,0254347;5,0819459;SW
+2006;3;St. Antonius Ziekenhuis;Nieuwegein;0;59;52,0254347;5,0819459;SW
+2007;1;St. Antonius Ziekenhuis;Nieuwegein;0;59;52,0254347;5,0819459;SW
+2008;3;St. Antonius Ziekenhuis;Nieuwegein;0;59;52,0254347;5,0819459;SW
+2009;26;St. Antonius Ziekenhuis;Nieuwegein;0;59;52,0254347;5,0819459;SW
+2010;3;St. Antonius Ziekenhuis;Nieuwegein;89,41;59;52,0254347;5,0819459;SW
+2011;5;St. Antonius Ziekenhuis;Nieuwegein;80,29;59;52,0254347;5,0819459;SW
+2012;38;St. Antonius Ziekenhuis;Nieuwegein;67,09882452;59;52,0254347;5,0819459;SW
+2013;20;St. Antonius Ziekenhuis;Nieuwegein;73,71;59;52,0254347;5,0819459;SW
+2014;31;St. Antonius Ziekenhuis;Nieuwegein;76,98;59;52,0254347;5,0819459;SW
+2005;24;St. Elisabeth Ziekenhuis;Tilburg;0;60;51,5397653;5,1028224;SW
+2006;24;St. Elisabeth Ziekenhuis;Tilburg;0;60;51,5397653;5,1028224;SW
+2007;3;St. Elisabeth Ziekenhuis;Tilburg;0;60;51,5397653;5,1028224;SW
+2008;37;St. Elisabeth Ziekenhuis;Tilburg;0;60;51,5397653;5,1028224;SW
+2009;12;St. Elisabeth Ziekenhuis;Tilburg;0;60;51,5397653;5,1028224;SW
+2010;7;St. Elisabeth Ziekenhuis;Tilburg;87,25;60;51,5397653;5,1028224;SW
+2011;38;St. Elisabeth Ziekenhuis;Tilburg;71,33;60;51,5397653;5,1028224;SW
+2012;70;St. Elisabeth Ziekenhuis;Tilburg;59,58071236;60;51,5397653;5,1028224;SW
+2013;63;St. Elisabeth Ziekenhuis;Tilburg;61,59;60;51,5397653;5,1028224;SW
+2014;25;St. Elisabeth Ziekenhuis;Tilburg;78,71;60;51,5397653;5,1028224;SW
+2005;64;Streekziekenhuis Koningin Beatrix;Winterswijk;0;61;51,9713139;6,720509;SE
+2006;73;Streekziekenhuis Koningin Beatrix;Winterswijk;0;61;51,9713139;6,720509;SE
+2007;28;Streekziekenhuis Koningin Beatrix;Winterswijk;0;61;51,9713139;6,720509;SE
+2008;23;Streekziekenhuis Koningin Beatrix;Winterswijk;0;61;51,9713139;6,720509;SE
+2009;71;Streekziekenhuis Koningin Beatrix;Winterswijk;0;61;51,9713139;6,720509;SE
+2010;2;Streekziekenhuis Koningin Beatrix;Winterswijk;89,53;61;51,9713139;6,720509;SE
+2011;91;Streekziekenhuis Koningin Beatrix;Winterswijk;57,41;61;51,9713139;6,720509;SE
+2012;71;Streekziekenhuis Koningin Beatrix;Winterswijk;59,18490566;61;51,9713139;6,720509;SE
+2013;13;Streekziekenhuis Koningin Beatrix;Winterswijk;76,23;61;51,9713139;6,720509;SE
+2014;10;Streekziekenhuis Koningin Beatrix;Winterswijk;82,19;61;51,9713139;6,720509;SE
+2005;45;t Lange Land Ziekenhuis;Zoetermeer;0;62;52,0692446;4,5006018;SW
+2006;72;t Lange Land Ziekenhuis;Zoetermeer;0;62;52,0692446;4,5006018;SW
+2007;62;t Lange Land Ziekenhuis;Zoetermeer;0;62;52,0692446;4,5006018;SW
+2008;31;t Lange Land Ziekenhuis;Zoetermeer;0;62;52,0692446;4,5006018;SW
+2009;82;t Lange Land Ziekenhuis;Zoetermeer;0;62;52,0692446;4,5006018;SW
+2010;73;t Lange Land Ziekenhuis;Zoetermeer;70,74;62;52,0692446;4,5006018;SW
+2011;86;t Lange Land Ziekenhuis;Zoetermeer;62,65;62;52,0692446;4,5006018;SW
+2012;78;t Lange Land Ziekenhuis;Zoetermeer;55,57005225;62;52,0692446;4,5006018;SW
+2013;42;t Lange Land Ziekenhuis;Zoetermeer;66,6;62;52,0692446;4,5006018;SW
+2014;63;t Lange Land Ziekenhuis;Zoetermeer;68,76;62;52,0692446;4,5006018;SW
+2005;35;Tergooiziekenhuizen;Hilversum;0;63;52,2167202;5,2020552;NW
+2005;71;Tergooiziekenhuizen;Blaricum;0;63;52,2167202;5,2020552;NW
+2006;21;Tergooiziekenhuizen;Hilversum;0;63;52,2167202;5,2020552;NW
+2006;41;Tergooiziekenhuizen;Blaricum;0;63;52,2167202;5,2020552;NW
+2007;83;Tergooiziekenhuizen;Hilversum;0;63;52,2167202;5,2020552;NW
+2007;86;Tergooiziekenhuizen;Blaricum;0;63;52,2167202;5,2020552;NW
+2008;57;Tergooiziekenhuizen;Hilversum;0;63;52,2167202;5,2020552;NW
+2008;94;Tergooiziekenhuizen;Blaricum;0;63;52,2167202;5,2020552;NW
+2009;84;Tergooiziekenhuizen;Blaricum;0;63;52,2167202;5,2020552;NW
+2009;87;Tergooiziekenhuizen;Hilversum;0;63;52,2167202;5,2020552;NW
+2010;29;Tergooiziekenhuizen;Hilversum;80,73;63;52,2167202;5,2020552;NW
+2010;42;Tergooiziekenhuizen;Blaricum;78,3;63;52,2167202;5,2020552;NW
+2011;19;Tergooiziekenhuizen;Hilversum;76,26;63;52,2167202;5,2020552;NW
+2012;11;Tergooiziekenhuizen;Hilversum;75,84936234;63;52,2167202;5,2020552;NW
+2013;5;Tergooiziekenhuizen;Hilversum;78,17;63;52,2167202;5,2020552;NW
+2014;8;Tergooiziekenhuizen;Hilversum;83,05;63;52,2167202;5,2020552;NW
+2005;46;TweeSteden Ziekenhuis;Tilburg;0;64;51,577452;5,0604905;SW
+2006;45;TweeSteden Ziekenhuis;Tilburg;0;64;51,577452;5,0604905;SW
+2007;10;TweeSteden Ziekenhuis;Tilburg;0;64;51,577452;5,0604905;SW
+2008;27;TweeSteden Ziekenhuis;Tilburg;0;64;51,577452;5,0604905;SW
+2009;10;TweeSteden Ziekenhuis;Tilburg;0;64;51,577452;5,0604905;SW
+2010;45;TweeSteden Ziekenhuis;Tilburg;78,13;64;51,577452;5,0604905;SW
+2011;40;TweeSteden Ziekenhuis;Tilburg;71,06;64;51,577452;5,0604905;SW
+2012;84;TweeSteden Ziekenhuis;Tilburg;52,3966388;64;51,577452;5,0604905;SW
+2013;38;TweeSteden Ziekenhuis;Tilburg;67,89;64;51,577452;5,0604905;SW
+2014;17;TweeSteden Ziekenhuis;Tilburg;81;64;51,577452;5,0604905;SW
+2005;12;Van Weel-Bethesda Ziekenhuis;Dirksland;0;65;51,7499051;4,1010457;SW
+2006;2;Van Weel-Bethesda Ziekenhuis;Dirksland;0;65;51,7499051;4,1010457;SW
+2007;68;Van Weel-Bethesda Ziekenhuis;Dirksland;0;65;51,7499051;4,1010457;SW
+2008;69;Van Weel-Bethesda Ziekenhuis;Dirksland;0;65;51,7499051;4,1010457;SW
+2009;40;Van Weel-Bethesda Ziekenhuis;Dirksland;0;65;51,7499051;4,1010457;SW
+2010;58;Van Weel-Bethesda Ziekenhuis;Dirksland;75,02;65;51,7499051;4,1010457;SW
+2011;31;Van Weel-Bethesda Ziekenhuis;Dirksland;74,11;65;51,7499051;4,1010457;SW
+2012;74;Van Weel-Bethesda Ziekenhuis;Dirksland;57,78431373;65;51,7499051;4,1010457;SW
+2013;56;Van Weel-Bethesda Ziekenhuis;Dirksland;63,16;65;51,7499051;4,1010457;SW
+2014;51;Van Weel-Bethesda Ziekenhuis;Dirksland;72,38;65;51,7499051;4,1010457;SW
+2005;51;VieCuri Medisch Centrum;Venlo;0;66;51,356743;6,154031;SE
+2006;82;VieCuri Medisch Centrum;Venlo;0;66;51,356743;6,154031;SE
+2007;87;VieCuri Medisch Centrum;Venlo;0;66;51,356743;6,154031;SE
+2008;55;VieCuri Medisch Centrum;Venlo;0;66;51,356743;6,154031;SE
+2009;77;VieCuri Medisch Centrum;Venlo;0;66;51,356743;6,154031;SE
+2010;26;VieCuri Medisch Centrum;Venlo;82,02;66;51,356743;6,154031;SE
+2011;53;VieCuri Medisch Centrum;Venlo;69,39;66;51,356743;6,154031;SE
+2012;27;VieCuri Medisch Centrum;Venlo;69,11208881;66;51,356743;6,154031;SE
+2013;32;VieCuri Medisch Centrum;Venlo;69,25;66;51,356743;6,154031;SE
+2014;66;VieCuri Medisch Centrum;Venlo;67,92;66;51,356743;6,154031;SE
+2005;93;Vlietland Ziekenhuis;Schiedam;0;67;51,9224773;4,3806616;SW
+2006;85;Vlietland Ziekenhuis;Schiedam;0;67;51,9224773;4,3806616;SW
+2007;55;Vlietland Ziekenhuis;Schiedam;0;67;51,9224773;4,3806616;SW
+2008;78;Vlietland Ziekenhuis;Schiedam;0;67;51,9224773;4,3806616;SW
+2009;64;Vlietland Ziekenhuis;Schiedam;0;67;51,9224773;4,3806616;SW
+2010;57;Vlietland Ziekenhuis;Schiedam;75,07;67;51,9224773;4,3806616;SW
+2011;45;Vlietland Ziekenhuis;Schiedam;70,24;67;51,9224773;4,3806616;SW
+2012;82;Vlietland Ziekenhuis;Schiedam;53,70694444;67;51,9224773;4,3806616;SW
+2013;76;Vlietland Ziekenhuis;Schiedam;54,89;67;51,9224773;4,3806616;SW
+2014;27;Vlietland Ziekenhuis;Schiedam;77,88;67;51,9224773;4,3806616;SW
+2005;19;VU medisch centrum;Amsterdam;0;#N/A;#N/A;#N/A;#N/A
+2006;38;VU medisch centrum;Amsterdam;0;#N/A;#N/A;#N/A;#N/A
+2007;60;VU medisch centrum;Amsterdam;0;#N/A;#N/A;#N/A;#N/A
+2008;75;VU medisch centrum;Amsterdam;0;#N/A;#N/A;#N/A;#N/A
+2009;57;VU medisch centrum;Amsterdam;0;#N/A;#N/A;#N/A;#N/A
+2010;67;VU medisch centrum;Amsterdam;72,96;#N/A;#N/A;#N/A;#N/A
+2011;51;VU medisch centrum;Amsterdam;69,88;#N/A;#N/A;#N/A;#N/A
+2005;54;Waterland ziekenhuis;Purmerend;0;68;52,5006707;4,9626462;NW
+2006;32;Waterland ziekenhuis;Purmerend;0;68;52,5006707;4,9626462;NW
+2007;65;Waterland ziekenhuis;Purmerend;0;68;52,5006707;4,9626462;NW
+2008;45;Waterland ziekenhuis;Purmerend;0;68;52,5006707;4,9626462;NW
+2009;56;Waterland ziekenhuis;Purmerend;0;68;52,5006707;4,9626462;NW
+2010;78;Waterland ziekenhuis;Purmerend;69,72;68;52,5006707;4,9626462;NW
+2011;7;Waterland ziekenhuis;Purmerend;80,17;68;52,5006707;4,9626462;NW
+2012;22;Waterland ziekenhuis;Purmerend;70,33737374;68;52,5006707;4,9626462;NW
+2013;59;Waterland ziekenhuis;Purmerend;62,82;68;52,5006707;4,9626462;NW
+2014;70;Waterland ziekenhuis;Purmerend;66,86;68;52,5006707;4,9626462;NW
+2005;30;West Fries Gasthuis;Hoorn;0;69;52,6471938;5,0540554;NW
+2006;18;West Fries Gasthuis;Hoorn;0;69;52,6471938;5,0540554;NW
+2007;22;West Fries Gasthuis;Hoorn;0;69;52,6471938;5,0540554;NW
+2008;29;West Fries Gasthuis;Hoorn;0;69;52,6471938;5,0540554;NW
+2009;50;West Fries Gasthuis;Hoorn;0;69;52,6471938;5,0540554;NW
+2010;35;West Fries Gasthuis;Hoorn;80,11;69;52,6471938;5,0540554;NW
+2011;43;West Fries Gasthuis;Hoorn;70,51;69;52,6471938;5,0540554;NW
+2012;40;West Fries Gasthuis;Hoorn;66,59976956;69;52,6471938;5,0540554;NW
+2013;71;West Fries Gasthuis;Hoorn;58,98;69;52,6471938;5,0540554;NW
+2014;46;West Fries Gasthuis;Hoorn;73,22;69;52,6471938;5,0540554;NW
+2005;75;Wilhelmina Ziekenhuis;Assen;0;70;52,9838044;6,5660883;NE
+2006;81;Wilhelmina Ziekenhuis;Assen;0;70;52,9838044;6,5660883;NE
+2007;72;Wilhelmina Ziekenhuis;Assen;0;70;52,9838044;6,5660883;NE
+2008;87;Wilhelmina Ziekenhuis;Assen;0;70;52,9838044;6,5660883;NE
+2009;3;Wilhelmina Ziekenhuis;Assen;0;70;52,9838044;6,5660883;NE
+2010;88;Wilhelmina Ziekenhuis;Assen;66,15;70;52,9838044;6,5660883;NE
+2011;80;Wilhelmina Ziekenhuis;Assen;64,02;70;52,9838044;6,5660883;NE
+2012;3;Wilhelmina Ziekenhuis;Assen;79,41573721;70;52,9838044;6,5660883;NE
+2013;8;Wilhelmina Ziekenhuis;Assen;77,64;70;52,9838044;6,5660883;NE
+2014;16;Wilhelmina Ziekenhuis;Assen;81,18;70;52,9838044;6,5660883;NE
+2005;39;Zaans Medisch Centrum;Zaandam;0;71;52,453493;4,8265007;NW
+2006;94;Zaans Medisch Centrum;Zaandam;0;71;52,453493;4,8265007;NW
+2007;56;Zaans Medisch Centrum;Zaandam;0;71;52,453493;4,8265007;NW
+2008;62;Zaans Medisch Centrum;Zaandam;0;71;52,453493;4,8265007;NW
+2009;92;Zaans Medisch Centrum;Zaandam;0;71;52,453493;4,8265007;NW
+2010;44;Zaans Medisch Centrum;Zaandam;78,13;71;52,453493;4,8265007;NW
+2011;83;Zaans Medisch Centrum;Zaandam;63,46;71;52,453493;4,8265007;NW
+2012;46;Zaans Medisch Centrum;Zaandam;65,31926154;71;52,453493;4,8265007;NW
+2013;2;Zaans Medisch Centrum;Zaandam;80,47;71;52,453493;4,8265007;NW
+2014;72;Zaans Medisch Centrum;Zaandam;66,19;71;52,453493;4,8265007;NW
+2005;94;Ziekenhuis Amstelland;Amstelveen;0;72;52,2940413;4,8733133;NW
+2006;74;Ziekenhuis Amstelland;Amstelveen;0;72;52,2940413;4,8733133;NW
+2007;42;Ziekenhuis Amstelland;Amstelveen;0;72;52,2940413;4,8733133;NW
+2008;51;Ziekenhuis Amstelland;Amstelveen;0;72;52,2940413;4,8733133;NW
+2009;63;Ziekenhuis Amstelland;Amstelveen;0;72;52,2940413;4,8733133;NW
+2010;34;Ziekenhuis Amstelland;Amstelveen;80,16;72;52,2940413;4,8733133;NW
+2011;27;Ziekenhuis Amstelland;Amstelveen;75,32;72;52,2940413;4,8733133;NW
+2012;7;Ziekenhuis Amstelland;Amstelveen;77,19925061;72;52,2940413;4,8733133;NW
+2013;58;Ziekenhuis Amstelland;Amstelveen;62,85;72;52,2940413;4,8733133;NW
+2014;41;Ziekenhuis Amstelland;Amstelveen;74,86;72;52,2940413;4,8733133;NW
+2005;55;Ziekenhuis Bernhoven;Oss;0;73;51,673743;5,603783;SE
+2006;95;Ziekenhuis Bernhoven;Oss;0;73;51,673743;5,603783;SE
+2007;67;Ziekenhuis Bernhoven;Oss;0;73;51,673743;5,603783;SE
+2008;64;Ziekenhuis Bernhoven;Oss;0;73;51,673743;5,603783;SE
+2009;79;Ziekenhuis Bernhoven;Veghel;0;73;51,673743;5,603783;SE
+2009;93;Ziekenhuis Bernhoven;Oss;0;73;51,673743;5,603783;SE
+2010;56;Ziekenhuis Bernhoven;Oss;75,15;73;51,673743;5,603783;SE
+2010;62;Ziekenhuis Bernhoven;Veghel;74,19;73;51,673743;5,603783;SE
+2011;77;Ziekenhuis Bernhoven;Oss;65,33;73;51,673743;5,603783;SE
+2012;44;Ziekenhuis Bernhoven;Oss;66,08272989;73;51,673743;5,603783;SE
+2013;17;Ziekenhuis Bernhoven;Oss;74,66;73;51,673743;5,603783;SE
+2014;15;Ziekenhuis Bernhoven;Oss;81,2;73;51,673743;5,603783;SE
+2005;91;Ziekenhuis Bethesda;Hoogeveen;0;74;52,7268334;6,460124;NE
+2006;42;Ziekenhuis Bethesda;Hoogeveen;0;74;52,7268334;6,460124;NE
+2007;71;Ziekenhuis Bethesda;Hoogeveen;0;74;52,7268334;6,460124;NE
+2008;34;Ziekenhuis Bethesda;Hoogeveen;0;74;52,7268334;6,460124;NE
+2009;21;Ziekenhuis Bethesda;Hoogeveen;0;74;52,7268334;6,460124;NE
+2010;50;Ziekenhuis Bethesda;Hoogeveen;76,93;74;52,7268334;6,460124;NE
+2011;78;Ziekenhuis Bethesda;Hoogeveen;65,22;74;52,7268334;6,460124;NE
+2012;29;Ziekenhuis Bethesda;Hoogeveen;68,8672956;74;52,7268334;6,460124;NE
+2013;61;Ziekenhuis Bethesda;Hoogeveen;61,8;74;52,7268334;6,460124;NE
+2014;80;Ziekenhuis Bethesda;Hoogeveen;55,48;74;52,7268334;6,460124;NE
+2005;79;Ziekenhuis Bronovo;Den Haag;0;75;52,1020795;4,3163396;SW
+2006;22;Ziekenhuis Bronovo;Den Haag;0;75;52,1020795;4,3163396;SW
+2007;58;Ziekenhuis Bronovo;Den Haag;0;75;52,1020795;4,3163396;SW
+2008;30;Ziekenhuis Bronovo;Den Haag;0;75;52,1020795;4,3163396;SW
+2009;58;Ziekenhuis Bronovo;Den Haag;0;75;52,1020795;4,3163396;SW
+2010;41;Ziekenhuis Bronovo;Den Haag;78,51;75;52,1020795;4,3163396;SW
+2011;57;Ziekenhuis Bronovo;Den Haag;68,93;75;52,1020795;4,3163396;SW
+2012;73;Ziekenhuis Bronovo;Den Haag;57,89103668;75;52,1020795;4,3163396;SW
+2013;48;Ziekenhuis Bronovo;Den Haag;65,37;75;52,1020795;4,3163396;SW
+2014;52;Ziekenhuis Bronovo;Den Haag;72,14;75;52,1020795;4,3163396;SW
+2005;61;Ziekenhuis De Sionsberg;Dokkum;0;76;53,3206129;5,993741;NE
+2006;13;Ziekenhuis De Sionsberg;Dokkum;0;76;53,3206129;5,993741;NE
+2007;76;Ziekenhuis De Sionsberg;Dokkum;0;76;53,3206129;5,993741;NE
+2008;93;Ziekenhuis De Sionsberg;Dokkum;0;76;53,3206129;5,993741;NE
+2009;97;Ziekenhuis De Sionsberg;Dokkum;0;76;53,3206129;5,993741;NE
+2010;81;Ziekenhuis De Sionsberg;Dokkum;68,52;76;53,3206129;5,993741;NE
+2011;63;Ziekenhuis De Sionsberg;Dokkum;67,96;76;53,3206129;5,993741;NE
+2012;83;Ziekenhuis De Sionsberg;Dokkum;53,43724054;76;53,3206129;5,993741;NE
+2013;82;Ziekenhuis De Sionsberg;Dokkum;46,46;76;53,3206129;5,993741;NE
+2014;83;Ziekenhuis De Sionsberg;Dokkum;45,22;76;53,3206129;5,993741;NE
+2005;17;Ziekenhuis De Tjongerschans;Heerenveen;0;77;52,9660367;5,9177685;NE
+2006;29;Ziekenhuis De Tjongerschans;Heerenveen;0;77;52,9660367;5,9177685;NE
+2007;30;Ziekenhuis De Tjongerschans;Heerenveen;0;77;52,9660367;5,9177685;NE
+2008;87;Ziekenhuis De Tjongerschans;Heerenveen;0;77;52,9660367;5,9177685;NE
+2009;42;Ziekenhuis De Tjongerschans;Heerenveen;0;77;52,9660367;5,9177685;NE
+2010;6;Ziekenhuis De Tjongerschans;Heerenveen;88,44;77;52,9660367;5,9177685;NE
+2011;47;Ziekenhuis De Tjongerschans;Heerenveen;70,14;77;52,9660367;5,9177685;NE
+2012;13;Ziekenhuis De Tjongerschans;Heerenveen;75,70269951;77;52,9660367;5,9177685;NE
+2013;64;Ziekenhuis De Tjongerschans;Heerenveen;60,99;77;52,9660367;5,9177685;NE
+2014;79;Ziekenhuis De Tjongerschans;Heerenveen;56,08;77;52,9660367;5,9177685;NE
+2005;92;Ziekenhuis Gelderse Vallei;Ede;0;78;52,02254;5,645856;SE
+2006;60;Ziekenhuis Gelderse Vallei;Ede;0;78;52,02254;5,645856;SE
+2007;48;Ziekenhuis Gelderse Vallei;Ede;0;78;52,02254;5,645856;SE
+2008;16;Ziekenhuis Gelderse Vallei;Ede;0;78;52,02254;5,645856;SE
+2009;44;Ziekenhuis Gelderse Vallei;Ede;0;78;52,02254;5,645856;SE
+2010;52;Ziekenhuis Gelderse Vallei;Ede;76,3;78;52,02254;5,645856;SE
+2011;90;Ziekenhuis Gelderse Vallei;Ede;58,31;78;52,02254;5,645856;SE
+2012;39;Ziekenhuis Gelderse Vallei;Ede;66,7205164;78;52,02254;5,645856;SE
+2013;46;Ziekenhuis Gelderse Vallei;Ede;65,84;78;52,02254;5,645856;SE
+2014;36;Ziekenhuis Gelderse Vallei;Ede;76,12;78;52,02254;5,645856;SE
+2005;25;Ziekenhuis Rivierenland;Tiel;0;79;51,8899227;5,4140922;SE
+2006;27;Ziekenhuis Rivierenland;Tiel;0;79;51,8899227;5,4140922;SE
+2007;8;Ziekenhuis Rivierenland;Tiel;0;79;51,8899227;5,4140922;SE
+2008;11;Ziekenhuis Rivierenland;Tiel;0;79;51,8899227;5,4140922;SE
+2009;19;Ziekenhuis Rivierenland;Tiel;0;79;51,8899227;5,4140922;SE
+2010;64;Ziekenhuis Rivierenland;Tiel;73,51;79;51,8899227;5,4140922;SE
+2011;48;Ziekenhuis Rivierenland;Tiel;70,01;79;51,8899227;5,4140922;SE
+2012;33;Ziekenhuis Rivierenland;Tiel;68,35393939;79;51,8899227;5,4140922;SE
+2013;14;Ziekenhuis Rivierenland;Tiel;75,95;79;51,8899227;5,4140922;SE
+2014;57;Ziekenhuis Rivierenland;Tiel;70,62;79;51,8899227;5,4140922;SE
+2005;7;Ziekenhuis Sint Jansdal;Harderwijk;0;80;52,3425917;5,6152386;NE
+2006;20;Ziekenhuis Sint Jansdal;Harderwijk;0;80;52,3425917;5,6152386;NE
+2007;19;Ziekenhuis Sint Jansdal;Harderwijk;0;80;52,3425917;5,6152386;NE
+2008;8;Ziekenhuis Sint Jansdal;Harderwijk;0;80;52,3425917;5,6152386;NE
+2009;23;Ziekenhuis Sint Jansdal;Harderwijk;0;80;52,3425917;5,6152386;NE
+2010;33;Ziekenhuis Sint Jansdal;Harderwijk;80,26;80;52,3425917;5,6152386;NE
+2011;84;Ziekenhuis Sint Jansdal;Harderwijk;63,41;80;52,3425917;5,6152386;NE
+2012;5;Ziekenhuis Sint Jansdal;Harderwijk;78,37568339;80;52,3425917;5,6152386;NE
+2013;27;Ziekenhuis Sint Jansdal;Harderwijk;71,02;80;52,3425917;5,6152386;NE
+2014;28;Ziekenhuis Sint Jansdal;Harderwijk;77,74;80;52,3425917;5,6152386;NE
+2005;82;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;0;#N/A;#N/A;#N/A;#N/A
+2006;15;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;0;#N/A;#N/A;#N/A;#N/A
+2007;59;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;0;#N/A;#N/A;#N/A;#N/A
+2008;68;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;0;#N/A;#N/A;#N/A;#N/A
+2009;9;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;0;#N/A;#N/A;#N/A;#N/A
+2010;9;Ziekenhuis Zevenaar (Alysis Zorggroep);Zevenaar;86,78;#N/A;#N/A;#N/A;#N/A
+2005;31;Ziekenhuisgroep Twente;Almelo;0;81;52,337155;6,6408034;NE
+2006;97;Ziekenhuisgroep Twente;Almelo;0;81;52,337155;6,6408034;NE
+2007;49;Ziekenhuisgroep Twente;Almelo;0;81;52,337155;6,6408034;NE
+2008;53;Ziekenhuisgroep Twente;Almelo;0;81;52,337155;6,6408034;NE
+2009;32;Ziekenhuisgroep Twente;Hengelo;0;81;52,337155;6,6408034;NE
+2009;41;Ziekenhuisgroep Twente;Almelo;0;81;52,337155;6,6408034;NE
+2010;63;Ziekenhuisgroep Twente;Almelo;73,81;81;52,337155;6,6408034;NE
+2010;93;Ziekenhuisgroep Twente;Hengelo;62,58;81;52,337155;6,6408034;NE
+2011;3;Ziekenhuisgroep Twente;Almelo;83,63;81;52,337155;6,6408034;NE
+2011;25;Ziekenhuisgroep Twente;Hengelo;75,37;81;52,337155;6,6408034;NE
+2012;25;Ziekenhuisgroep Twente;Almelo;69,55982684;81;52,337155;6,6408034;NE
+2012;55;Ziekenhuisgroep Twente;Hengelo;63,88449668;81;52,337155;6,6408034;NE
+2013;10;Ziekenhuisgroep Twente;Almelo;76,98;81;52,337155;6,6408034;NE
+2014;49;Ziekenhuisgroep Twente;Almelo;72,85;81;52,337155;6,6408034;NE
+2005;34;Zorgsaam Ziekenhuis;Terneuzen;0;82;51,3090277;3,8612502;SW
+2006;49;Zorgsaam Ziekenhuis;Terneuzen;0;82;51,3090277;3,8612502;SW
+2007;5;Zorgsaam Ziekenhuis;Terneuzen;0;82;51,3090277;3,8612502;SW
+2008;21;Zorgsaam Ziekenhuis;Terneuzen;0;82;51,3090277;3,8612502;SW
+2009;8;Zorgsaam Ziekenhuis;Terneuzen;0;82;51,3090277;3,8612502;SW
+2010;59;Zorgsaam Ziekenhuis;Terneuzen;74,9;82;51,3090277;3,8612502;SW
+2011;15;Zorgsaam Ziekenhuis;Terneuzen;77,08;82;51,3090277;3,8612502;SW
+2012;18;Zorgsaam Ziekenhuis;Terneuzen;72,55906433;82;51,3090277;3,8612502;SW
+2013;18;Zorgsaam Ziekenhuis;Terneuzen;74,16;82;51,3090277;3,8612502;SW
+2014;3;Zorgsaam Ziekenhuis;Terneuzen;87,93;82;51,3090277;3,8612502;SW
+2005;37;Zuwe Hofpoort Ziekenhuis;Woerden;0;83;52,0794433;4,8922792;SW
+2006;78;Zuwe Hofpoort Ziekenhuis;Woerden;0;83;52,0794433;4,8922792;SW
+2007;61;Zuwe Hofpoort Ziekenhuis;Woerden;0;83;52,0794433;4,8922792;SW
+2008;43;Zuwe Hofpoort Ziekenhuis;Woerden;0;83;52,0794433;4,8922792;SW
+2009;62;Zuwe Hofpoort Ziekenhuis;Woerden;0;83;52,0794433;4,8922792;SW
+2010;85;Zuwe Hofpoort Ziekenhuis;Woerden;67,5;83;52,0794433;4,8922792;SW
+2011;61;Zuwe Hofpoort Ziekenhuis;Woerden;68,21;83;52,0794433;4,8922792;SW
+2012;28;Zuwe Hofpoort Ziekenhuis;Woerden;68,96497719;83;52,0794433;4,8922792;SW
+2013;40;Zuwe Hofpoort Ziekenhuis;Woerden;67,55;83;52,0794433;4,8922792;SW
+2014;59;Zuwe Hofpoort Ziekenhuis;Woerden;70,39;83;52,0794433;4,8922792;SW
